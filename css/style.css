@@ -134,6 +134,7 @@ body {
 }
 
 .ul1-class .btn-nav .nav-btn {
+  padding: 15px 25px;
   background: #FFFFFF;
   -webkit-box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
           box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
@@ -571,6 +572,10 @@ body {
   .footer-wrapper .footwrap .foot-list ul li {
     text-align: center;
   }
+}
+
+.footer-wrapper .footwrap .foot-list .icon-cls {
+  cursor: pointer;
 }
 
 @media (max-width: 425px) {
